@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./batman.gif" width="700" alt="Batman Banner">
+  <img src="./batman.gif" width="300" alt="Batman Banner">
 </p>
 
 <h1 align="center">🦇 Piyush Mondal</h1>
