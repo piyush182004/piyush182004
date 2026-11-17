@@ -38,25 +38,6 @@ powers = [
 
 ---
 
-## 💼 Experience
-
-### 🤖 AI Intern — Netsanchar
-
-* Built real-time Computer Vision systems
-* Worked on object detection, segmentation, embeddings
-* Optimized inference speed and deployment pipelines
-
-### 🚀 AI Intern — DLTitan AI Innovations(Suproc Currently)
-
-* Fine-tuned LLMs using Hugging Face + LoRA
-* Built Multi-Agent AI systems
-* Developed NLP pipelines and automation tools
-
-### 🎯 AI Intern — VitaminG Studios Pvt. Ltd.
-
-* Built semantic search systems
-* Used CLIP for zero-shot image classification
-* Worked on vector search with FAISS
 
 ---
 
@@ -78,7 +59,7 @@ Docker • Git • GitHub Actions • Jupyter • PyCharm • VS Code
 
 ---
 
-## 🏆 2x Hackathon Winner
+## 🏆 3x Hackathon Winner
 
 🥇 Winning is fun.
 🚀 Building is better.
